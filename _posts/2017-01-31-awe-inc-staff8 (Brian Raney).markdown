@@ -9,5 +9,5 @@ position: Founder
 permalink: /BrianRaney/
 ---
 
-![alt text](http://127.0.0.1:4000/assets/images/default-image.jpg)
+![alt text]({{ site.url }}/assets/images/default-image.jpg)
 
