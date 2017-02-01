@@ -6,6 +6,8 @@ categories: jekyll update
 image: default-image.jpg
 description: This is the first Demo post. Click to see full content.
 position: Founder
+permalink: /BrianRaney/
 ---
 
 ![alt text](http://127.0.0.1:4000/assets/images/default-image.jpg)
+
