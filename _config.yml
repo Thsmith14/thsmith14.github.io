@@ -3,7 +3,7 @@ title: Awesome Inc
 email: your-email@domain.com
 description: Slick Material Design theme for Jekyll powered by Material Design Lite.
 baseurl: # the subpath of your site, e.g. /blog/  ("/jekyll-smart-material")
-url: "http://ssokurenko.github.io" # the base hostname & protocol for your site
+url: "https://thsmith14.github.io" # the base hostname & protocol for your site
 copyright: '&copy; 2015-2016 Smart Material Theme'
 permalink: pretty
 
